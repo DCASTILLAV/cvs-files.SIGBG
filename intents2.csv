@@ -1,0 +1,30 @@
+Texto,Intencion,Respuesta
+Hola,Saludar,¡Hola! ¿En qué puedo ayudarte hoy?
+Buenos días,Saludar,¡Buenos días! ¿Cómo puedo asistirte?
+¿Cómo estás?,Saludar,Estoy aquí para ayudarte. ¿En qué puedo asistirte?
+¿Qué tal?,Saludar,¡Todo bien! ¿Y tú?
+¿Cuánto cuesta el software?,Precios,El software cuesta $499.00 para la versión con facturación electrónica y $399.00 para la versión sin.
+¿Cuánto cuesta?,Precios,El costo es $499.00 para la versión completa.
+¿Cuáles son los precios?,Precios,Los precios son $499.00 y $399.00 según la versión.
+Dime los precios,Precios,Claro, los precios son $499.00 y $399.00.
+¿Cuál es el costo del sistema?,Precios,El costo del sistema es de $499.00 con facturación.
+¿Qué versiones hay?,Versiones,Tenemos dos versiones: Básica y Premium.
+¿Qué opciones tienen?,Versiones,Ofrecemos versiones con y sin facturación.
+¿Cuáles son las versiones disponibles?,Versiones,Las versiones disponibles son Básica y Premium.
+¿Qué diferencias hay entre las versiones?,Versiones,La versión Premium incluye soporte prioritario y características avanzadas.
+¿Qué incluye el software?,Beneficios,El software incluye soporte 24/7, actualizaciones gratuitas y capacitación.
+¿Qué beneficios tiene?,Beneficios,Los beneficios son soporte técnico, actualizaciones y capacitación virtual.
+¿Qué ventajas ofrece?,Beneficios,Ofrecemos soporte continuo y actualizaciones durante el primer año.
+¿Qué soporte incluye?,Beneficios,Incluimos soporte técnico 24/7 durante el período de licencia.
+¿Cómo puedo comprarlo?,Comprar,Puedes comprarlo en nuestro sitio web o llamando a nuestro número de ventas.
+¿Dónde lo compro?,Comprar,Adquiere el software en nuestro sitio web o por teléfono.
+Quiero adquirir el software,Comprar,Para adquirirlo, visita nuestra página o contáctanos directamente.
+¿Cómo hago para comprar?,Comprar,Simplemente visita nuestro sitio web y sigue los pasos indicados.
+Adiós,Despedir,¡Gracias por tu tiempo! ¡Hasta luego!
+Chao,Despedir,¡Hasta luego! ¡Que tengas un buen día!
+Hasta luego,Despedir,¡Nos vemos pronto! Si necesitas ayuda, aquí estaré.
+Nos vemos,Despedir,¡Hasta la próxima! Estoy aquí para ayudarte.
+Gracias,Despedir,¡De nada! Si tienes más preguntas, no dudes en preguntar.
+¿Es de un solo pago?,DiferentesPagos,El sistema tiene un costo único para la versión completa.
+¿La versión básica tiene soporte?,SoporteVersionBasica,Sí, la versión básica incluye soporte técnico.
+¿Qué diferencia hay entre ambas opciones?,Versiones,La opción Premium tiene más características y soporte prioritario.
